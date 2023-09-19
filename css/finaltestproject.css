@@ -1,0 +1,124 @@
+.navbar{
+      background-color: rgba(17, 10, 43, 0.879);
+      display: flex;
+      align-items: center;
+   
+      
+    }
+.content1{
+    color: white;
+    height: 80px;
+    align-items: center;
+    translate: 70px;
+        
+}
+.content1 img{
+   height: 50px;
+   width: 150px;
+   border: none;
+   background-color: rgba(215, 62, 62, 0.737);
+   align-items: center;
+   margin-top: 15px;
+}
+ .search input{
+    width: 400px;
+    translate: 100px;
+    height:  30px;
+    width: 300px;
+    
+ }
+ .content3 select{
+    border: none;
+    translate: 800px;
+    background-color:rgba(0, 0, 0, 0) ;
+    color: white;
+    
+ }
+   
+ 
+   .content3 button{
+      background-color: rgba(255, 0, 0, 0.741);
+      color: white;
+      margin-left:800px;
+      border: none;
+      height: 25px;
+      width: 70px;
+      translate: 20px;
+    
+ }
+ .navbar2{
+   background-color: rgb(12, 2, 44);
+   height: 50px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+ .link1 a{
+   color: white;
+   text-decoration: none;
+   margin-right: 20px; 
+   
+ }
+.link2 a{
+   color: white;
+   text-decoration: none;
+   margin-right: 20px; 
+}
+
+.h h2{
+   translate: 100px;
+}
+.p img{
+   padding-left: 15px;
+   translate: 70px;
+   padding-right: 15px;
+   
+}
+.titles{
+   display: flex;
+   translate: 60px;
+   
+   justify-content:space-around;
+   font-size: large;
+   font-weight: 900;
+}
+.navbar3{
+   height: 110px;
+   width: 1400px;
+   background-image: url(https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-1440,h-120:q-80/stream-leadin-web-collection-202210241242.png);
+  margin: 70px;
+}
+   .n1{
+      translate: 70px;
+   }
+   .n1 img{
+      justify-content: space-evenly;
+      padding-right: 30px;
+    translate: 10px;     
+   }
+   .premiere{
+      height: 600px;
+      width: 1500px;
+      background-color: rgb(43, 49, 72);
+      
+   }
+   .logo{
+      translate: 80px;
+   }
+   .logo1{
+      color: white;
+   }
+   .po img{
+      margin-left: 80px;
+      justify-content: space-evenly;
+      
+   }
+   .pon {
+      display: flex;
+      color: white;
+      justify-content: space-around;
+      margin-right: 200px;
+      translate: 70px;
+   }
+   
+
